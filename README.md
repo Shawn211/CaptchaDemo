@@ -1,0 +1,2 @@
+# CaptchaDemo
+基于svg-captcha与express实现的简单验证码检验demo
