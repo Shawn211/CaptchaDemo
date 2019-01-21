@@ -1,0 +1,26 @@
+{
+  "name": "captchademo",
+  "version": "1.0.0",
+  "description": "基于svg-captcha与express实现的简单验证码检验demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawn211/CaptchaDemo.git"
+  },
+  "author": "Shawn211",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawn211/CaptchaDemo/issues"
+  },
+  "homepage": "https://github.com/Shawn211/CaptchaDemo#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "log4js": "^3.0.6",
+    "svg-captcha": "^1.3.12"
+  }
+}
